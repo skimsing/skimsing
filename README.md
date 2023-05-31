@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hiya 👋 What's up?</h1>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/skimsing/skimsing/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Find me on: </h2>
 
 ###
 
