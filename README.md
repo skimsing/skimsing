@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning php, python and Next.js<br>🎲 Fun fact: My favourite breed of cat is the Ragdoll</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning php, python and Next.js<br>🎲 Fun fact: I first learned to code from playing neopets</p>
 
 ###
 
