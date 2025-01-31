@@ -1,8 +1,8 @@
-<h1 align="left">Hiya 👋 What's up?</h1>
+<h1 align="left">👋 Ahoy there!</h1>
 
 ###
 
-<p align="left">I'm Sophia, a web developer from Vancouver BC.</p>
+<p align="left">Nice to meet you! I'm Sophia, a web dev from Vancouver BC.</p>
 
 ###
 
